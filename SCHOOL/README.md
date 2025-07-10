@@ -28,5 +28,4 @@ Example Output
 Regression equation: score = 9.90 hours + 1.86
 Percentage increase in score per hour of study (relative to intercept): 531.31%
 R2 score: 98.14%
-Plot saved as: C:/Users/V1/CascadeProjects/windsurf-project/SCHOOL/regression_plot.png
 
